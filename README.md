@@ -21,3 +21,6 @@ Pull requrstler kabul edilir.Büyük değişiklikleri için, önce neyi değişt
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Resim
+![Resim](https://picsum.photos/200/300)
