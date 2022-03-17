@@ -1,6 +1,10 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo içerisinde bir adet README, dosyası bir adet de index.html barındırıyor.
 
+# Güncelleme
+
+Patika.dev'de yaptığım ödevleri bu repo içerisinde oluşturucağım
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
