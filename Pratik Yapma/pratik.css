@@ -1,0 +1,47 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.gradient{
+
+    background: linear-gradient(90deg,rgba(45,156,219,.6),rgba(155,81,224,.6));
+
+}
+
+.btn{
+    padding: 8px 20px;
+    border-radius: 20px ;
+    text-decoration: none;
+    color: white;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.5);
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.5);
+   
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    
+
+}
+.left-bar{
+    width: 200px; ;
+    float: left;
+}
+
+.content{
+    width: 800px;
+    float: left;
+}
+
+.card{
+    width: 20%;
+    float: left;
+    padding: 5%;
+    margin-right: 3%;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 150px;
+    border-radius: 6px;
+}
