@@ -13,6 +13,13 @@
     text-align: center;
     padding: 5px 5px;
     text-decoration: none;
+    float: right;
+  }
+
+  .ppic{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
   }
   
   .headerli a:hover {
@@ -34,6 +41,7 @@
     margin: 0 auto;
     margin-top: -77px;
     width: 582px;
+    border-radius: 50px;
   }
   
   .search-area:hover {
@@ -45,6 +53,8 @@
     display: flex;
     padding: 5px 8px 0 16px;
     padding-left: 14px;
+    
+
   }
   
   .search-img {
@@ -65,10 +75,22 @@
     position: relative;
   }
   
+  
+  .voiceimg{
+   width: 25px;
+   height: 25px;
+   float: right;
+   margin: 5px 0px 0px 10px;
+
+  }
+  
   .input-enter {
     display: flex;
     flex: 1;
     flex-wrap: wrap;
+    
+    
+  
   }
   
   .input-area {
@@ -79,6 +101,8 @@
     line-height: 34px;
     height: 34px !important;
     display: block;
+    
+    
   }
   
   .input {
@@ -102,8 +126,17 @@
     text-align: start;
     appearance: textfield;
     cursor: text;
+    width: 480px;
+    border: none;
+    
   }
   
+  .buttons{
+   text-align: center;
+    
+    
+  }
+
   .googlesearch {
     margin: 11px 4px;
     padding: 0 16px;
@@ -112,7 +145,17 @@
     text-align: center;
     cursor: pointer;
     user-select: none;
+    border: 1px solid #f2f2f2  ;
+    font-family: Arial;
+    color: #5f6368 ;
+    font-size: 14px;
+    height: 36px;
+    border-radius: 4px;
   }
+
+  .googlesearch:hover {
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+    }
   
   .feelinglucky {
     padding: 0 16px;
@@ -121,7 +164,18 @@
     text-align: center;
     cursor: pointer;
     user-select: none;
+    border: 1px solid #f2f2f2  ;
+    font-family: Arial;
+    color: #5f6368 ;
+    font-size: 14px;
+    height: 36px;
+    border-radius: 4px;
+   
   }
+
+  .feelinglucky:hover {
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+    }
   
   .footer {
     margin: 0;
@@ -134,6 +188,8 @@
     width: 100%;
     margin-left: -8px;
     line-height: 10px;
+    background-color:#f2f2f2;
+    list-style: none;
   }
   
   .footerli {
