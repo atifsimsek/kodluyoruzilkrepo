@@ -5,6 +5,8 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo içerisinde b
 
 Patika.dev'de yaptığım ödevleri bu repo içerisinde oluşturucağım
 
+Günlük yapılan pratik çalışmaları, pratik dosyasına kaydedilecektir.
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
