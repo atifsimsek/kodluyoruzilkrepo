@@ -3,7 +3,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo içerisinde b
 
 # Güncelleme
 
-Patika.dev'de yaptığım ödevleri bu repo içerisinde oluşturucağım
+Patika.dev'de yaptığım ödevleri bu repo içerisinde oluşturacağım,
 
 Günlük yapılan pratik çalışmaları, pratik dosyasına kaydedilecektir.
 
